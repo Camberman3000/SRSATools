@@ -1,0 +1,18 @@
+C:\Users\cambe\Documents\Visual Studio 2015\Projects\HTM Reader\HTM Reader\bin\Release\HTM Reader.exe.manifest
+C:\Users\cambe\Documents\Visual Studio 2015\Projects\HTM Reader\HTM Reader\bin\Release\HTM Reader.application
+C:\Users\cambe\Documents\Visual Studio 2015\Projects\HTM Reader\HTM Reader\bin\Release\HTM Reader.exe
+C:\Users\cambe\Documents\Visual Studio 2015\Projects\HTM Reader\HTM Reader\bin\Release\HTM Reader.pdb
+C:\Users\cambe\Documents\Visual Studio 2015\Projects\HTM Reader\HTM Reader\bin\Release\HTM Reader.xml
+C:\Users\cambe\Documents\Visual Studio 2015\Projects\HTM Reader\HTM Reader\obj\Release\HTM Reader.vbprojResolveAssemblyReference.cache
+C:\Users\cambe\Documents\Visual Studio 2015\Projects\HTM Reader\HTM Reader\obj\Release\MainWindow.baml
+C:\Users\cambe\Documents\Visual Studio 2015\Projects\HTM Reader\HTM Reader\obj\Release\MainWindow.g.vb
+C:\Users\cambe\Documents\Visual Studio 2015\Projects\HTM Reader\HTM Reader\obj\Release\Application.g.vb
+C:\Users\cambe\Documents\Visual Studio 2015\Projects\HTM Reader\HTM Reader\obj\Release\HTM Reader_MarkupCompile.cache
+C:\Users\cambe\Documents\Visual Studio 2015\Projects\HTM Reader\HTM Reader\obj\Release\HTM Reader.g.resources
+C:\Users\cambe\Documents\Visual Studio 2015\Projects\HTM Reader\HTM Reader\obj\Release\HTM_Reader.Resources.resources
+C:\Users\cambe\Documents\Visual Studio 2015\Projects\HTM Reader\HTM Reader\obj\Release\HTM Reader.vbproj.GenerateResource.Cache
+C:\Users\cambe\Documents\Visual Studio 2015\Projects\HTM Reader\HTM Reader\obj\Release\HTM Reader.exe.manifest
+C:\Users\cambe\Documents\Visual Studio 2015\Projects\HTM Reader\HTM Reader\obj\Release\HTM Reader.application
+C:\Users\cambe\Documents\Visual Studio 2015\Projects\HTM Reader\HTM Reader\obj\Release\HTM Reader.exe
+C:\Users\cambe\Documents\Visual Studio 2015\Projects\HTM Reader\HTM Reader\obj\Release\HTM Reader.xml
+C:\Users\cambe\Documents\Visual Studio 2015\Projects\HTM Reader\HTM Reader\obj\Release\HTM Reader.pdb
